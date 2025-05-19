@@ -1,0 +1,1 @@
+start cmd /k C:\Users\callm\pyvenv\venv1\Scripts\activate.bat

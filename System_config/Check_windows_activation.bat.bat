@@ -1,0 +1,2 @@
+slmgr.vbs -xpr
+pause

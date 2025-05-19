@@ -1,0 +1,1 @@
+fsutil behavior set encryptpagingfile 0
